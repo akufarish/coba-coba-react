@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li,
+a {
+  list-style: none;
+  text-decoration: none;
+}
+
+.navbar {
+  background-color: burlywood;
+  padding: 2px;
+}
+
+.nav-list {
+  display: flex;
+  gap: 20px;
+}
